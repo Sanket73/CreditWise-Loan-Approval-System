@@ -38,6 +38,22 @@ Implemented binary classification for loan approval prediction
 
 * Scikit-learn
 
+# Technologies Used
+
+* Programming Language: Python
+
+* Data Processing & Analysis: Pandas, NumPy
+
+* Data Visualization: Matplotlib, Seaborn
+
+* Machine Learning Library: Scikit-learn
+
+* Models Implemented: Logistic Regression, KNN, Naive Bayes
+
+* Evaluation Metrics: Precision, Recall, F1-Score, Confusion Matrix
+
+* Development Environment: Jupyter Notebook / Anaconda
+
 ## Objective
 
 To build a reliable and interpretable ML system that assists financial institutions in making data-driven loan approval decisions while minimizing risk.
