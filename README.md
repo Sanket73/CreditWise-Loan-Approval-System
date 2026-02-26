@@ -40,19 +40,31 @@ Implemented binary classification for loan approval prediction
 
 ## Technologies Used
 
-* Programming Language: Python
+**Languages & Libraries**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-* Data Processing & Analysis: Pandas, NumPy
+**Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-* Data Visualization: Matplotlib, Seaborn
+**Models**
+![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-0A66C2?style=flat)
+![KNN](https://img.shields.io/badge/KNN-FF6F00?style=flat)
+![Naive Bayes](https://img.shields.io/badge/Naive%20Bayes-009688?style=flat)
 
-* Machine Learning Library: Scikit-learn
+**Evaluation**
+![Precision](https://img.shields.io/badge/Precision-4CAF50?style=flat)
+![Recall](https://img.shields.io/badge/Recall-9C27B0?style=flat)
+![F1-Score](https://img.shields.io/badge/F1--Score-FF5722?style=flat)
+![Confusion Matrix](https://img.shields.io/badge/Confusion%20Matrix-795548?style=flat)
 
-* Models Implemented: Logistic Regression, KNN, Naive Bayes
+**Environment**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
-* Evaluation Metrics: Precision, Recall, F1-Score, Confusion Matrix
-
-* Development Environment: Jupyter Notebook / Anaconda
 
 ## Objective
 
