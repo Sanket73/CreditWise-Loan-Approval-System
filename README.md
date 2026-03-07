@@ -65,6 +65,9 @@ Implemented binary classification for loan approval prediction
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
+## Project Architecture Diagram
+
+![CreditWise Loan Approval System Architecture](https://github.com/Sanket73/CreditWise-Loan-Approval-System/blob/main/Image.png?raw=true)
 
 ## Objective
 
