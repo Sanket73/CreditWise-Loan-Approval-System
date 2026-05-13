@@ -86,3 +86,11 @@ The project successfully developed and evaluated multiple classification models 
 * Implement model explainability techniques (e.g., SHAP or LIME) for better interpretability.
 
 * Deploy the model using Flask or Streamlit for real-time loan approval predictions.
+
+# Connect with Me
+
+Sanket Dongardive
+
+GitHub: https://github.com/Sanket73
+
+LinkedIn: https://linkedin.com/in/sanket-dongardive-515793315
